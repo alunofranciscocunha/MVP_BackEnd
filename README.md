@@ -26,11 +26,11 @@ Se você não tem o Python instalado, siga os passos abaixo:
 ## Instalação
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/alunofranciscocunha/MVP_BackEnd.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd <NOME DO REPOSITORIO>
+    cd MVP_BackEnd
     ```
 3. Crie um ambiente virtual:
     ```sh
